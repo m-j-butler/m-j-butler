@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+### Matt Butler - junior software developer
+
+Hi. I'm Matt. I'm a recent graduate of a software engineering bootcamp with [HyperionDev](https://www.hyperiondev.com/), now looking to start out on my developer careeer.
+
+🌱 Currently learning Python and SQL
+
+👯 Feel free to reach out to me if you want to collab on any projects.
 
 <!--
 **m-j-butler/m-j-butler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
