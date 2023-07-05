@@ -4,6 +4,8 @@
 
 #### [LinkedIn](https://www.linkedin.com/in/matthew-b-036831253/)
 
+#### [CV](https://docs.google.com/document/d/13ruDnDXEMpQpxgE0i2M8jBnLrnYHvLctsgtY2gNoAJM/edit?usp=sharing)
+
 Hi. I'm Matt. I'm a recent graduate of a software engineering bootcamp with [HyperionDev](https://www.hyperiondev.com/), now looking to start out on my developer careeer.
 
 🌱 Currently learning Python and SQL
