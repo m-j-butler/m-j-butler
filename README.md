@@ -8,7 +8,7 @@
 
 Hi. I'm Matt. I'm a recent graduate of a software engineering bootcamp with [HyperionDev](https://www.hyperiondev.com/), now looking to start out on my developer careeer.
 
-🌱 Currently learning Python and SQL
+🌱 Currently learning Python, SQL and Javascript
 
 👯 Feel free to reach out to me if you want to collab on any projects.
 
