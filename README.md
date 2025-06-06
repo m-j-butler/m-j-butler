@@ -4,13 +4,9 @@
 
 #### [LinkedIn](https://www.linkedin.com/in/matthew-b-036831253/)
 
-#### [CV](https://github.com/m-j-butler/m-j-butler/blob/main/CV%20July%202023%20software%20developer.pdf)
-
 Hi. I'm Matt. I'm a recent graduate of a software engineering bootcamp with [HyperionDev](https://www.hyperiondev.com/), now looking to start out on my developer careeer.
 
-🌱 Currently learning Python, SQL and Javascript
-
-👯 Feel free to reach out to me if you want to collab on any projects.
+🌱 Currently learning Python, SQL, R, and Javascript
 
 
 
